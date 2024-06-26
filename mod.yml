@@ -1,5 +1,5 @@
-title: Recolored Drive Form's hair and eyes
-description: Changes Sora's eyes and hair according to the Drive Form he's using.
+title: Recolored Drive Form's hair and eyes for HD Models
+description: Changes Sora's eyes and hair according to the Drive Form he's using. HD Models Version.
 assets:
 - name: remastered/obj/H_EX500_BTLF.mdlx/-0.dds
   method: copy
