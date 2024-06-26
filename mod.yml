@@ -1,0 +1,163 @@
+title: Recolored Drive Form's hair and eyes
+description: Changes Sora's eyes and hair according to the Drive Form he's using.
+assets:
+- name: remastered/obj/H_EX500_BTLF.mdlx/-0.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/BTLF0.dds
+- name: remastered/obj/H_EX500_BTLF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/BTLF1.dds
+- name: remastered/obj/H_EX500_BTLF.mdlx/-2.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/BTLF2.dds
+
+- name: remastered/obj/H_EX500_KH1F.mdlx/-0.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/KH1F0.dds
+- name: remastered/obj/H_EX500_KH1F.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/KH1F1.dds
+- name: remastered/obj/H_EX500_KH1F.mdlx/-2.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/KH1F2.dds
+
+- name: remastered/obj/H_EX500_MAGF.mdlx/-0.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/MAGF0.dds
+- name: remastered/obj/H_EX500_MAGF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/MAGF1.dds
+- name: remastered/obj/H_EX500_MAGF.mdlx/-2.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/MAGF2.dds
+
+- name: remastered/obj/H_EX500_TRIF.mdlx/-0.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/TRIF0.dds
+- name: remastered/obj/H_EX500_TRIF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/TRIF1.dds
+- name: remastered/obj/H_EX500_TRIF.mdlx/-2.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/TRIF2.dds
+
+- name: remastered/obj/H_EX500_ULTF.mdlx/-0.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/ULTF0.dds
+- name: remastered/obj/H_EX500_ULTF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/ULTF1.dds
+- name: remastered/obj/H_EX500_ULTF.mdlx/-2.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/h/ULTF2.dds
+
+- name: remastered/obj/P_EX100_BTLF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/BTLF1.dds
+- name: remastered/obj/P_EX100_BTLF.mdlx/-3.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/BTLF2.dds
+
+- name: remastered/obj/P_EX100_KH1F.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/KH1F1.dds
+- name: remastered/obj/P_EX100_KH1F.mdlx/-3.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/KH1F2.dds
+
+- name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/MAGF1.dds
+- name: remastered/obj/P_EX100_MAGF.mdlx/-3.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/MAGF2.dds
+
+- name: remastered/obj/P_EX100_TRIF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/TRIF1.dds
+- name: remastered/obj/P_EX100_TRIF.mdlx/-3.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/TRIF2.dds
+
+- name: remastered/obj/P_EX100_ULTF.mdlx/-1.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/ULTF1.dds
+- name: remastered/obj/P_EX100_ULTF.mdlx/-3.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/b/ULTF2.dds
+
+- name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/icon/BTLF.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/icon/KH1F.dds
+- name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/icon/MAGF.dds
+- name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/icon/TRIF.dds
+- name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
+  method: copy
+  platform: pc
+  source:
+  - name: remastered/obj/icon/ULTF.dds
